@@ -1,0 +1,3 @@
+G:/UniRepos/AlgoMentor/cmake-build-debug/CMakeFiles/AlgoMentor.dir
+G:/UniRepos/AlgoMentor/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/UniRepos/AlgoMentor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
